@@ -1,2 +1,2 @@
 # Java
-JavaSE + JVM 
+The base of JavaSE 
